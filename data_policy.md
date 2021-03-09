@@ -49,7 +49,7 @@
 
 3.2 Curation of raw data and associated metadata
 
-3.2.1 All raw data will be created in well-defined formats, for which the means of reading the data will be made available by the Facility.
+3.2.1 All raw data will be created in standardized formats, for which the means of reading the data will be made available by the Facility.
 
 3.2.2 Metadata associated with raw data that is automatically captured by instruments will be curated either within the raw data files, within an associated on-line catalogue, or within both.
 
