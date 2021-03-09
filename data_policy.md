@@ -56,6 +56,8 @@
 
 3.2.3 Raw data and metadata will be stored initially on instrument-related computers, and will be migrated or copied to archival facilities for long-term curation.
 
+3.2.4 After the long-term period, ISIS does not guarantee that raw data will continue to be stored. It is the responsibility of the user to provide storage if they wish to have guaranteed access to raw data after this time. Associated metadata will be kept indefinitely, even if the raw data is deleted.
+
 3.3 Storing of facility generated reduced data and associated metadata​
 
 3.3.1 All facility generated reduced data will be created in well-defined formats that are readable at the time of creation either by facility or non-facility software, or both.
