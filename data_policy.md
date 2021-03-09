@@ -38,6 +38,7 @@
 
 2.11 The term ‘curation’ denotes the long-term storage, backup and protection of data in a manner that respects and guarantees the prescribed access-rights.
 
+2.12 The term 'embargo period' denotes the period of time in which access to data is restricted to the experimental team only. 'Embargoed data' is data still within an embargo period.
 
 ### 3. Raw data, facility generated reduced data and associated metadata
 
@@ -65,7 +66,7 @@
 
 3.4.1 Raw data and metadata beyond the period that it is stored on instrument-related computers will long-term be accessible and searchable from the on-line catalogue.
 
-3.4.2 Access to raw data and the associated metadata obtained from an experiment is restricted to the experimental team for a period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the CC-BY license that obliges users to acknowledge ISIS and cite [Digital Object Identifiers (DOI)](https://www.isis.stfc.ac.uk/Pages/Digital-Object-Identifiers-%28DOIs%29-for-ISIS-Data.aspx) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.  Any PI who wishes their data to be made publicly accessible before the end of the 3 year period can ask ISIS to enable this.
+3.4.2 Access to raw data and the associated metadata obtained from an experiment is restricted to the experimental team for an embargo period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the CC-BY license that obliges users to acknowledge ISIS and cite [Digital Object Identifiers (DOI)](https://www.isis.stfc.ac.uk/Pages/Digital-Object-Identifiers-%28DOIs%29-for-ISIS-Data.aspx) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.  Any PI who wishes their data to be made publicly accessible before the end of the 3 year embargo period can ask ISIS to enable this.
 
 3.5 Concerning access to facility generated reduced data and associated metadata
 
@@ -73,7 +74,7 @@
 
 3.6 Concerning access to raw data, facility generated reduced data and associated metadata
 
-3.6.1 Access to the on-line catalogue and the DAaaS platform will be restricted to those who register with STFC/ISIS as users.
+3.6.1 Access to embargoed data through the on-line catalogue and DAaaS platform will be restricted to those who register with STFC/ISIS as users.
 
 3.6.2 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and the DAaaS platform, and other users may inadvertently be given access rights to the data.
 
