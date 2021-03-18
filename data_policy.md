@@ -99,7 +99,7 @@
 
 4.2.2 Result data created by users of the DAaaS platform will be stored on medium-term storage, subject to volume restrictions.
 
-4.2.3 For STFC staff, a service is provided to upload result data and associated metadata for long-term storage, subject to volume restrictions.  ISIS currently does not provide any such facility for non-STFC staff.
+4.2.3 For STFC staff, the [eData service](https://edata.stfc.ac.uk/) is provided to upload result data and associated metadata for long-term storage, subject to volume restrictions.  ISIS currently does not provide any such facility for non-STFC staff.
 
 4.3 Access to result data
 
