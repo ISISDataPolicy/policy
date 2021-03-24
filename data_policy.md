@@ -20,7 +20,7 @@
 
 2.2 The term ‘facility generated reduced data’ refers to raw data that have been automatically processed by facility software with the purpose of, for example, removing unwanted signals in the raw data. Data manually reduced by the users of the facility are not covered by this term.
 
-2.3 The term ’metadata’ is information pertaining to data collected from experiments performed on ISIS instruments and data collected from creating facility generated reduced data. This includes (but is not limited to) the context of the experiment, scripts used to generate reduced data, the experimental team (in accordance with the [Data Protection Act](https://www.legislation.gov.uk/ukpga/2018/12/contents)), experimental conditions and other logistical information.
+2.3 The term ‘metadata’ is information pertaining to data collected from experiments performed on ISIS instruments and data collected from creating facility generated reduced data. This includes (but is not limited to) the context of the experiment, scripts used to generate reduced data, the experimental team (in accordance with the [Data Protection Act](https://www.legislation.gov.uk/ukpga/2018/12/contents)), experimental conditions and other logistical information.
 
 2.4 The term ‘result data’ refers to data and intellectual property arising from the manual reduction of raw data and associated metadata, and from the analysis of raw data, facility generated reduced data and associated metadata.
 
@@ -38,7 +38,7 @@
 
 2.11 The term ‘curation’ denotes the long-term storage, backup and protection of data in a manner that respects and guarantees the prescribed access-rights.
 
-2.12 The term 'embargo period' denotes the period of time in which access to data is restricted to the experimental team only. 'Embargoed data' is data still within an embargo period.
+2.12 The term ‘embargo period’ denotes the period of time in which access to data is restricted to the experimental team only. ‘Embargoed data’ is data still within an embargo period.
 
 ### 3. Raw data, facility generated reduced data and associated metadata
 
