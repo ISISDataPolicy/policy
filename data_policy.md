@@ -114,11 +114,11 @@
 
 5.3 Researchers who aim to carry out analyses of ISIS data made available after the embargo period should, in addition to citing the data DOI also, where possible, contact the original PI to inform them and suggest a collaboration if appropriate.
 
-5.4 PIs and researchers are encouraged to make result data they generate open access​, and to link such data to available ISIS data DOIs.
+5.4 PIs and researchers are encouraged to make result data they generate open access, and to link such data to available ISIS data DOIs.
 
 
 ### 6. Publication information
 
-6.1 For STFC staff, references for publications related to experiments carried out at ISIS must be deposited in the STFC e-Pubs system http://epubs.cclrc.ac.uk/ within six months of the publication date, or during any new application for beamtime, whichever is the earlier.
+6.1 For STFC staff, references for publications related to experiments carried out at ISIS must be deposited in the STFC e-Pubs system https://epubs.stfc.ac.uk within six months of the publication date, or during any new application for beamtime, whichever is the earlier.
 
 6.2 All publications related to experiments carried out at ISIS are obliged to acknowledge ISIS and cite data DOIs of the experiments.
