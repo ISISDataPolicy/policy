@@ -76,7 +76,7 @@
 
 3.6.1 Access to the DAaaS platform will be restricted to those who register with STFC/ISIS as users.
 
-3.6.2 Access to embargoed data through the on-line catalogue will be restricted to those who register with STFC/ISIS as users. Data that is not under embargo will be openly accessible.
+3.6.2 Access to embargoed data through the on-line catalogue will be restricted to experimental team members who register with STFC/ISIS as users. Data that is not under embargo will be openly accessible.
 
 3.6.3 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and the DAaaS platform, and other users may inadvertently be given access rights to the data.
 
