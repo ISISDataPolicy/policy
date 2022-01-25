@@ -56,7 +56,7 @@
 
 3.2.3 Raw data and metadata will be stored initially on instrument-related computers, and will be migrated or copied to archival facilities for long-term curation.
 
-3.3 Storing of facility generated reduced data and associated metadata​
+3.3 Storing of facility generated reduced data and associated metadata
 
 3.3.1 All facility generated reduced data will be created in well-defined formats that are readable at the time of creation either by facility or non-facility software, or both.
 
