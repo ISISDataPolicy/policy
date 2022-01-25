@@ -66,9 +66,11 @@
 
 3.4.1 Raw data and metadata beyond the period that it is stored on instrument-related computers will long-term be accessible and searchable from the on-line catalogue.
 
-3.4.2 Access to raw data and the associated metadata obtained from an experiment is restricted to the experimental team for an embargo period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the CC-BY license that obliges users to acknowledge ISIS and cite [Digital Object Identifiers (DOI)](https://www.isis.stfc.ac.uk/Pages/Digital-Object-Identifiers-%28DOIs%29-for-ISIS-Data.aspx) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.
+3.4.2 Access to raw data obtained from an experiment is restricted to the experimental team for an embargo period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the CC-BY license that obliges users to acknowledge ISIS and cite [Digital Object Identifiers (DOI)](https://www.isis.stfc.ac.uk/Pages/Digital-Object-Identifiers-%28DOIs%29-for-ISIS-Data.aspx) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.
 
-3.4.3 Any PI who wishes their data to be made publicly accessible before the end of the 3 year embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk.
+3.4.3 Some elements of the metadata associated with an experiment are highlighted as being public during the proposal process, and will be publicly accessible as soon as the proposal is accepted. All other elements of the associated metadata are handled in the same way as the raw experimental data in regards to the embargo period.
+
+3.4.4 Any PI who wishes their data to be made publicly accessible before the end of the 3 year embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk.
 
 3.5 Concerning access to facility generated reduced data and associated metadata
 
