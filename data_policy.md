@@ -126,3 +126,7 @@
 6.1 For STFC staff, references for publications related to experiments carried out at ISIS must be deposited in the STFC e-Pubs system https://epubs.stfc.ac.uk within six months of the publication date, or during any new application for beamtime, whichever is the earlier.
 
 6.2 All publications related to experiments carried out at ISIS are obliged to acknowledge ISIS and cite data DOIs of the experiments.
+
+### Policy review
+
+The ISIS data policy is reviewed on an annual basis by a group of ISIS staff to keep it as relevant and accurate as possible. If you have any questions, feedback, or suggestions, please either email isisdata@stfc.ac.uk or comment on/open an issue at https://github.com/ISISDataPolicy/policy/issues
