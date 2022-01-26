@@ -29,7 +29,7 @@ The policy applies to anyone using ISIS facilities to produce experimental data,
 
 2.6 The term ‘experimental team’ includes the PI and any other person to whom the PI designates the right to access resultant raw data, facility generated reduced and associated metadata.
 
-2.7 The term ‘on-line catalogue’ pertains to a computer database of metadata containing links to raw data files, that can be accessed by a variety of methods, including (but not limited to) www-based browsers.
+2.7 The term ‘on-line catalogue’ pertains to a computer database of metadata containing links to raw data files, that can be accessed by a variety of methods, including (but not limited to) web browsers.
 
 2.8 The term ‘DAaaS’ stands for Data Analysis as a Service and pertains to a platform that users can access to manually analyse and reduce data.
 
