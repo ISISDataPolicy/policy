@@ -4,6 +4,9 @@ The ISIS data policy lays out the guarantees ISIS provides, and the requirements
 
 The policy applies to anyone using ISIS facilities to produce experimental data, except as part of 'commercial-in-confidence' access to ISIS. Commercial users must instead come to an agreement about how their data is to be handled with ISIS before running their experiment.
 
+ISIS is committed to the principles of FAIR data in order to support research, and the advancement of knowledge and technology. We release data in common, easily accessible formats under a permissive Creative Commons license, along with detailed metadata in a variety of human and machine readable formats.
+
+
 ## ISIS data management policy
 
 ### 1. General principles
