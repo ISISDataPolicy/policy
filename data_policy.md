@@ -1,17 +1,18 @@
 # ISIS Data Policy  
 
-## ISIS data management policy
+The ISIS data policy lays out the guarantees ISIS provides, and the requirements for users of the facilities, pertaining to the curation, access, ownership, use and storage of data collected at ISIS.
 
+The policy applies to anyone using ISIS facilities to produce experimental data, except as part of 'commercial-in-confidence' access to ISIS. Commercial users must instead come to an agreement about how their data is to be handled with ISIS before running their experiment.
+
+## ISIS data management policy
 
 ### 1. General principles
 
 1.1 Acceptance of this policy is a condition of the award of beamtime at the ISIS Neutron and Muon facility (ISIS).
 
-1.2 This data management policy pertains to the curation, access, ownership, use and storage of data collected at ISIS.
+1.2 Users must not attempt to access, exploit or distribute ISIS data unless they are entitled to do so under the terms of this policy.
 
-1.3 Users must not attempt to access, exploit or distribute ISIS data unless they are entitled to do so under the terms of this policy.
-
-1.4 Deliberate infringements of the policy may lead to denial of access to data and/or denial of future beamtime requests.
+1.3 Deliberate infringements of the policy may lead to denial of access to data and/or denial of future beamtime requests.
 
 
 ### 2. Definitions  
@@ -45,8 +46,6 @@
 3.1 Free and commercial access to ISIS
 
 3.1.1 All raw data and associated metadata obtained as a result of free (non-commercial) access to ISIS, will be treated as described below, with ISIS acting as the custodian.
-
-3.1.2 All raw data, facility generated reduced data and associated metadata obtained as a result of ‘commercial-in-confidence’ access to ISIS will be owned exclusively by the commercial user.  Commercial users must agree with their relevant instruments scientists how they wish their raw data, facility generated reduced data and metadata to be managed before the start of any experiment.
 
 3.2 Curation of raw data and associated metadata
 
