@@ -125,7 +125,7 @@ ISIS is committed to the principles of FAIR data in order to support research, a
 
 ### 6. Publication information
 
-6.1 For STFC staff, references for publications related to experiments carried out at ISIS must be deposited in the STFC e-Pubs system https://epubs.stfc.ac.uk within six months of the publication date, or during any new application for beamtime, whichever is the earlier.
+6.1 For STFC staff, references for publications related to experiments carried out at ISIS must be deposited in the STFC e-Pubs system https://epubs.stfc.ac.uk/ and comply with relevant UKRI and STFC open access policies.
 
 6.2 All publications related to experiments carried out at ISIS are obliged to acknowledge ISIS and cite data DOIs of the experiments.
 
