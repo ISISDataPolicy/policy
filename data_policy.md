@@ -95,9 +95,7 @@ ISIS is committed to the principles of FAIR data in order to support research, a
 
 4.1 Ownership of result data
 
-4.1.1 Ownership of all result data derived from users manually reducing raw data and analysing raw data, or both, is determined by the contractual obligations of the person(s) performing the analysis.
-
-4.1.2 The ISIS data policy does not apply to result data produced using resources which were not provided by ISIS.
+4.1.1 Ownership of all result data derived from users manually reducing and/or analysing raw data using ISIS resources is determined by the contractual obligations of the person(s) performing the analysis.
 
 4.2 Storing and curation of result data
 
