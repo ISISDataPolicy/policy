@@ -1,6 +1,6 @@
 # ISIS Data Policy  
 
-The ISIS data policy lays out the guarantees ISIS provides along with requirements for users of the facility pertaining to the curation, access, ownership, use and storage of data collected at ISIS.
+The ISIS data policy lays out guarantees that ISIS provides, along with requirements for users of the facility, pertaining to the curation, access, ownership, use and storage of data collected at ISIS.
 
 ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-principles/) in order to support research, and the advancement of knowledge and technology. We release data in common, accessible formats under a permissive Creative Commons license, along with detailed metadata in a variety of human and machine readable formats.
 
