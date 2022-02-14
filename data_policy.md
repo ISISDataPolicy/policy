@@ -2,8 +2,6 @@
 
 The ISIS data policy lays out the guarantees ISIS provides along with requirements for users of the facility pertaining to the curation, access, ownership, use and storage of data collected at ISIS.
 
-The policy applies to anyone using ISIS to produce experimental data, except as part of 'commercial-in-confidence' access to ISIS. Commercial users must instead come to an agreement about how their data is to be handled with ISIS before running their experiment.
-
 ISIS is committed to the principles of FAIR data in order to support research, and the advancement of knowledge and technology. We release data in common, easily accessible formats under a permissive Creative Commons license, along with detailed metadata in a variety of human and machine readable formats.
 
 
@@ -48,7 +46,11 @@ ISIS is committed to the principles of FAIR data in order to support research, a
 
 3.1 Free and commercial access to ISIS
 
-3.1.1 All raw data and associated metadata obtained as a result of free (non-commercial) access to ISIS, will be treated as described below, with ISIS acting as the custodian.
+3.1.1 All raw data and associated metadata obtained as a result of free (non-commercial) access to ISIS will be treated as described in the rest of this section, with ISIS acting as the custodian.
+
+3.1.2 All raw data and associated metadata obtained as a result of ‘commercial-in-confidence’ access to ISIS will be owned exclusively by the commercial user. The data will be treated as described in section 3.2 unless the user makes a request for it to be removed from ISIS storage.
+
+3.1.3 All raw data and associated metadata obtained as a result of access to ISIS through the ICRD programme will be treated as agreed beforehand in the user's collaboration agreement.
 
 3.2 Curation of raw data and associated metadata
 
