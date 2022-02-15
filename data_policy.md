@@ -48,9 +48,11 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 3.1.1 All raw data and associated metadata obtained as a result of free (non-commercial) access to ISIS will be treated as described in the rest of this section, with ISIS acting as the custodian.
 
-3.1.2 All raw data and associated metadata obtained as a result of ‘commercial-in-confidence’ access to ISIS will be owned exclusively by the commercial user. This data will be treated as described in section 3.2 unless the user makes a request for it to be removed from ISIS storage.
+3.1.2 All raw data and associated metadata obtained as a result of ‘commercial-in-confidence’ access to ISIS will be owned exclusively by the commercial user. This data will be treated as described in the rest of this section, but will only ever be accessible to members of the experimental team.
 
-3.1.3 All raw data and associated metadata obtained as a result of access to ISIS through the ICRD (ISIS Collaborative R&D) programme will be treated as agreed beforehand in the user's collaboration agreement.
+3.1.3 The principal investigator on a commercial experiment can request any raw data or associated metadata obtained as part of the experiment be deleted from ISIS storage at any time.
+
+3.1.4 All raw data and associated metadata obtained as a result of access to ISIS through the ICRD (ISIS Collaborative R&D) programme will be treated as described in the rest of this section, except for any differences agreed beforehand in the user's collaboration agreement.
 
 3.2 Curation of raw data and associated metadata
 
