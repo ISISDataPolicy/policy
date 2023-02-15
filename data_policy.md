@@ -72,7 +72,7 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 3.4.2 Access to raw data obtained from an experiment is restricted to the experimental team for an embargo period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the [CC-BY license](https://creativecommons.org/licenses/by/4.0/) that obliges users to acknowledge ISIS and cite [Digital Object Identifiers (DOI)](https://www.isis.stfc.ac.uk/Pages/Digital-Object-Identifiers-%28DOIs%29-for-ISIS-Data.aspx) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.
 
-3.4.3 During the proposals process, some elements of the metadata associated with an experiment (such as the title) are indicated as being public; these will be publicly accessible immediately upon the proposal being accepted. All other elements of the associated metadata are handled in the same way as the raw experimental data in regards to the embargo period.
+3.4.3 During the proposals process, some elements of the metadata associated with an experiment (such as the title) are indicated as being public; these will be made publicly accessible after the proposal has been accepted. All other elements of the associated metadata are handled in the same way as the raw experimental data in regards to the embargo period.
 
 3.4.4 Any PI who wishes their data to be made publicly accessible before the end of the embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk.
 
