@@ -74,7 +74,7 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 3.4.3 During the proposals process, some elements of the metadata associated with an experiment (such as the title) are indicated as being public; these will be publicly accessible immediately upon the proposal being accepted. All other elements of the associated metadata are handled in the same way as the raw experimental data in regards to the embargo period.
 
-3.4.4 Any PI who wishes their data to be made publicly accessible before the end of the 3 year embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk.
+3.4.4 Any PI who wishes their data to be made publicly accessible before the end of the embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk.
 
 3.5 Concerning access to facility generated reduced data and associated metadata
 
@@ -88,7 +88,7 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 3.6.3 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and the DAaaS platform, and other users may inadvertently be given access rights to the data.
 
-3.6.4 Appropriate STFC staff (e.g. instrument scientists, computing group members) may be given access to any ISIS data or metadata for facility-related purposes. ISIS undertakes to preserve the confidentiality of such data for the 3 year embargo period.
+3.6.4 Appropriate STFC staff (e.g. instrument scientists, computing group members) may be given access to any ISIS data or metadata for facility-related purposes. ISIS undertakes to preserve the confidentiality of such data for the embargo period.
 
 3.6.5 The on-line catalogue will enable the linking of experimental data to experimental proposals.  Access to proposals will only ever be provided to the experimental team and appropriate STFC staff, unless otherwise authorized by the PI (with the exception of those parts of the online proposal which are flagged as publicly accessible within the proposal system).
 
