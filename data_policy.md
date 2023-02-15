@@ -48,7 +48,7 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 3.1.1 All raw data and associated metadata obtained as a result of free (non-proprietary) access to ISIS will be treated as described in the rest of this section, with ISIS acting as the custodian.
 
-3.1.2 All raw data and associated metadata obtained as a result of proprietary access to ISIS will be owned exclusively by the commercial user. This data will be treated as described in the rest of this section, but will only ever be accessible to members of the experimental team, unless requested otherwise according to 3.4.4.
+3.1.2 All raw data and associated metadata obtained as a result of proprietary access to ISIS will be owned exclusively by the proprietary user. This data will be treated as described in the rest of this section, but will only ever be accessible to members of the experimental team, unless requested otherwise according to 3.4.4.
 
 3.1.3 The principal investigator on a proprietary experiment can request any raw data or associated metadata obtained as part of the experiment be deleted from ISIS storage at any time.
 
