@@ -19,7 +19,7 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 2.1 The term ‘raw data’ refers to the original data collected from neutron or muon detectors or imaging cameras.
 
-2.2 The term ‘facility generated reduced data’ refers to raw data that have been automatically processed by facility software with the purpose of, for example, removing unwanted signals in the raw data. Data manually reduced by the users of the facility are not covered by this term.
+2.2 The term ‘facility generated reduced data’ refers to raw data that have been automatically processed by facility-provided computing infrastructure with the purpose of, for example, removing unwanted signals in the raw data. Data manually reduced by the users of the facility are not covered by this term.
 
 2.3 The term ‘metadata’ is information pertaining to data collected from experiments performed on ISIS instruments and data collected from creating facility generated reduced data. This includes (but is not limited to) the context of the experiment, scripts used to generate reduced data, the experimental team (in accordance with the [Data Protection Act](https://www.legislation.gov.uk/ukpga/2018/12/contents)
 and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), experimental conditions and other logistical information.
@@ -32,7 +32,7 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 2.7 The term ‘on-line catalogue’ pertains to a computer database of metadata containing links to raw data files, that can be accessed by a variety of methods, including (but not limited to) web browsers.
 
-2.8 The term ‘DAaaS’ stands for Data Analysis as a Service and pertains to a platform that users can access to manually analyse and reduce data.
+2.8 The term ‘facility-provided computing infrastructure’ pertains to computing infrastructure provided by the ISIS facility.
 
 2.9 The term ‘long-term’ means a minimum of ten years.
 
@@ -78,15 +78,15 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 3.5 Concerning access to facility generated reduced data and associated metadata
 
-3.5.1 Facility generated reduced data and associated metadata will be accessible from the DAaaS platform.
+3.5.1 Facility generated reduced data and associated metadata will be accessible from the facility-provided computing infrastructure.
 
 3.6 Concerning access to raw data, facility generated reduced data and associated metadata
 
-3.6.1 Access to the DAaaS platform will be restricted to those who register with STFC/ISIS as users.
+3.6.1 Access to the facility-provided computing infrastructure is restricted to those who register with STFC/ISIS as users.
 
 3.6.2 Access to embargoed data through the on-line catalogue will be restricted to experimental team members who register with STFC/ISIS as users. Data that is not under embargo will be openly accessible.
 
-3.6.3 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and the DAaaS platform, and other users may inadvertently be given access rights to the data.
+3.6.3 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and any facility-provided computing infrastructure, and other users may inadvertently be given access rights to the data.
 
 3.6.4 Appropriate STFC staff (e.g. instrument scientists, computing group members) may be given access to any ISIS data or metadata for facility-related purposes. ISIS undertakes to preserve the confidentiality of such data for the embargo period.
 
@@ -103,7 +103,7 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 4.2.1 It will not be the responsibility of ISIS to ensure that software to read / manipulate result data is available.
 
-4.2.2 Result data created by users of the DAaaS platform will be stored on medium-term storage, subject to volume restrictions.
+4.2.2 Result data created by users of facility-provided computing infrastructure will be stored on medium-term storage, subject to volume restrictions.
 
 4.2.3 For STFC staff, the [eData service](https://edata.stfc.ac.uk/) is provided to upload result data and associated metadata for long-term storage, subject to volume restrictions.  ISIS currently does not provide any such facility for non-STFC staff.
 
