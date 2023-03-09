@@ -15,10 +15,9 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 1.3 Deliberate infringements of the policy may lead to denial of access to data and/or denial of future beamtime requests.
 
+### 2. Definitions
 
-### 2. Definitions  
-
-2.1 The term ‘raw data’ refers to the original neutron and muon data and neutron image data collected from neutron and muon detectors and imaging cameras.
+2.1 The term ‘raw data’ refers to the original data collected from neutron or muon detectors or imaging cameras.
 
 2.2 The term ‘facility generated reduced data’ refers to raw data that have been automatically processed by facility software with the purpose of, for example, removing unwanted signals in the raw data. Data manually reduced by the users of the facility are not covered by this term.
 
