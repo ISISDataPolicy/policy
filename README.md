@@ -10,7 +10,9 @@ It is recommended that [Visual Studio Code](https://code.visualstudio.com/)
 with the [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 extension be used to edit the policy. If `Format on Save` is enabled then the
 extension will automatically fix any issues with the document such as extraneous
-whitespace or bare external links.
-
-A [GitHub Action workflow](./.github/workflows/cichecks.yml) is defined to check
+whitespace or bare external links. This check is also part of a
+[GitHub Action workflow](./.github/workflows/cichecks.yml) check
 the documents when opening a pull request or pushing to the default branch.
+
+The action also has an additional check for dead external links using
+[markdown-link-check](https://github.com/marketplace/actions/markdown-link-check).
