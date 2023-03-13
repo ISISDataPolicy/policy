@@ -1,0 +1,52 @@
+{
+  "creators": [
+    {
+      "orcid": "0000-0002-1957-4210",
+      "affiliation": "STFC, ISIS Neutron and Muon facility",
+      "name": "Will Taylor"
+    },
+    {
+      "orcid": "0000-0001-8974-2868",
+      "affiliation": "STFC, ISIS Neutron and Muon facility",
+      "name": "Anders Markvardsen"
+    },
+    {
+      "orcid": "0000-0003-0566-5717",
+      "affiliation": "STFC",
+      "name": "Abigail McBirnie"
+    },
+    {
+      "orcid": "0000-0002-8255-9013",
+      "affiliation": "STFC",
+      "name": "Elizabeth Newbold"
+    },
+    {
+      "orcid": "0000-0001-8050-7255",
+      "affiliation": "STFC, ISIS Neutron and Muon facility",
+      "name": "Philip King"
+    },
+    {
+      "orcid": "0000-0003-3499-8262",
+      "affiliation": "STFC",
+      "name": "Alejandra Gonzalez-Beltran"
+    },
+    {
+      "orcid": "0000-0001-5120-0764",
+      "affiliation": "Diamond",
+      "name": "Steve Collins"
+    },
+    {
+      "orcid": "0009-0001-9233-3149",
+      "affiliation": "STFC, ISIS Neutron and Muon facility",
+      "name": "Martyn Gigg"
+    }
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "scheme": "doi",
+      "identifier": "10.5281/zenodo.3827816",
+      "relation": "isVersionOf"
+    }
+  ]
+}
