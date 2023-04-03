@@ -1,9 +1,8 @@
-# ISIS Data Policy  
+# ISIS Data Policy
 
 This policy describes how ISIS handles curation, access, ownership, usage, and storage of data collected at the facility, along with the responsibilities users of ISIS have pertaining to these topics.
 
 ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-principles/) in order to support research, and the advancement of knowledge and technology. We release data in common, accessible formats under a permissive Creative Commons license, along with detailed metadata in a variety of human and machine readable formats.
-
 
 ## ISIS data management policy
 
@@ -92,7 +91,6 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 3.6.5 The on-line catalogue will enable the linking of experimental data to experimental proposals.  Access to proposals will only ever be provided to the experimental team and appropriate STFC staff, unless otherwise authorized by the PI (with the exception of those parts of the online proposal which are flagged as publicly accessible within the proposal system).
 
-
 ### 4. Result data
 
 4.1 Ownership of result data
@@ -111,7 +109,6 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 4.3.1 Access to the result data of analyses performed on raw data and metadata is restricted to the person or persons performing the analyses, unless otherwise requested by those persons.
 
-
 ### 5. Good practice for metadata capture and result data storage
 
 5.1 The experimental team is encouraged to ensure that experimental metadata are as complete as possible, as this will enhance the possibilities for them to search for, retrieve and interpret their own data in the future.
@@ -121,7 +118,6 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 5.3 Researchers who aim to carry out analyses of ISIS data made available after the embargo period should, in addition to citing the data DOI also, where possible, contact the original PI to inform them and suggest a collaboration if appropriate.
 
 5.4 PIs and researchers are encouraged to make result data they generate open access, and to link such data to available ISIS data DOIs.
-
 
 ### 6. Publication information
 

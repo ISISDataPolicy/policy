@@ -1,0 +1,10 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://www.go-fair.org/fair-principles/"
+    },
+    {
+      "pattern": "^mailto:"
+    }
+  ]
+}
