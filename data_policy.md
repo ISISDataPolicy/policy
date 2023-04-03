@@ -1,6 +1,6 @@
 # ISIS Data Policy  
 
-The ISIS data policy lays out guarantees that ISIS provides, along with requirements for users of the facility, pertaining to the curation, access, ownership, use and storage of data collected at ISIS.
+This policy describes how ISIS handles curation, access, ownership, usage, and storage of data collected at the facility, along with the responsibilities users of ISIS have pertaining to these topics.
 
 ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-principles/) in order to support research, and the advancement of knowledge and technology. We release data in common, accessible formats under a permissive Creative Commons license, along with detailed metadata in a variety of human and machine readable formats.
 
@@ -15,14 +15,14 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 1.3 Deliberate infringements of the policy may lead to denial of access to data and/or denial of future beamtime requests.
 
+### 2. Definitions
 
-### 2. Definitions  
+2.1 The term ‘raw data’ refers to the original data collected from neutron or muon detectors or imaging cameras.
 
-2.1 The term ‘raw data’ refers to the original neutron and muon data and neutron image data collected from neutron and muon detectors and imaging cameras.
+2.2 The term ‘facility generated reduced data’ refers to raw data that have been automatically processed by facility-provided computing infrastructure with the purpose of, for example, removing unwanted signals in the raw data. Data manually reduced by the users of the facility are not covered by this term.
 
-2.2 The term ‘facility generated reduced data’ refers to raw data that have been automatically processed by facility software with the purpose of, for example, removing unwanted signals in the raw data. Data manually reduced by the users of the facility are not covered by this term.
-
-2.3 The term ‘metadata’ is information pertaining to data collected from experiments performed on ISIS instruments and data collected from creating facility generated reduced data. This includes (but is not limited to) the context of the experiment, scripts used to generate reduced data, the experimental team (in accordance with the [Data Protection Act](https://www.legislation.gov.uk/ukpga/2018/12/contents)), experimental conditions and other logistical information.
+2.3 The term ‘metadata’ is information pertaining to data collected from experiments performed on ISIS instruments and data collected from creating facility generated reduced data. This includes (but is not limited to) the context of the experiment, scripts used to generate reduced data, the experimental team (in accordance with the [Data Protection Act](https://www.legislation.gov.uk/ukpga/2018/12/contents)
+and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), experimental conditions and other logistical information.
 
 2.4 The term ‘result data’ refers to data and intellectual property arising from the manual reduction of raw data and associated metadata, and from the analysis of raw data, facility generated reduced data and associated metadata.
 
@@ -32,7 +32,7 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 2.7 The term ‘on-line catalogue’ pertains to a computer database of metadata containing links to raw data files, that can be accessed by a variety of methods, including (but not limited to) web browsers.
 
-2.8 The term ‘DAaaS’ stands for Data Analysis as a Service and pertains to a platform that users can access to manually analyse and reduce data.
+2.8 The term ‘facility-provided computing infrastructure’ pertains to computing infrastructure provided by the ISIS facility.
 
 2.9 The term ‘long-term’ means a minimum of ten years.
 
@@ -48,7 +48,7 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 3.1.1 All raw data and associated metadata obtained as a result of free (non-proprietary) access to ISIS will be treated as described in the rest of this section, with ISIS acting as the custodian.
 
-3.1.2 All raw data and associated metadata obtained as a result of proprietary access to ISIS will be owned exclusively by the commercial user. This data will be treated as described in the rest of this section, but will only ever be accessible to members of the experimental team, unless requested otherwise according to 3.4.4.
+3.1.2 All raw data and associated metadata obtained as a result of proprietary access to ISIS will be owned exclusively by the proprietary user. This data will be treated as described in the rest of this section, but will only ever be accessible to members of the experimental team, unless requested otherwise according to 3.4.4.
 
 3.1.3 The principal investigator on a proprietary experiment can request any raw data or associated metadata obtained as part of the experiment be deleted from ISIS storage at any time.
 
@@ -70,25 +70,25 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 3.4.1 Raw data and metadata beyond the period that it is stored on instrument-related computers will long-term be accessible and searchable from the on-line catalogue.
 
-3.4.2 Access to raw data obtained from an experiment is restricted to the experimental team for an embargo period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the CC-BY license that obliges users to acknowledge ISIS and cite [Digital Object Identifiers (DOI)](https://www.isis.stfc.ac.uk/Pages/Digital-Object-Identifiers-%28DOIs%29-for-ISIS-Data.aspx) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.
+3.4.2 Access to raw data obtained from an experiment is restricted to the experimental team for an embargo period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the [CC-BY license](https://creativecommons.org/licenses/by/4.0/) that obliges users to acknowledge ISIS and cite [Digital Object Identifiers (DOI)](https://www.isis.stfc.ac.uk/Pages/Digital-Object-Identifiers-%28DOIs%29-for-ISIS-Data.aspx) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.
 
-3.4.3 During the proposals process, some elements of the metadata associated with an experiment (such as the title) are indicated as being public; these will be publicly accessible immediately upon the proposal being accepted. All other elements of the associated metadata are handled in the same way as the raw experimental data in regards to the embargo period.
+3.4.3 During the proposals process, some elements of the metadata associated with an experiment (such as the title) are indicated as being public; these will be made publicly accessible after the proposal has been accepted. All other elements of the associated metadata are handled in the same way as the raw experimental data in regards to the embargo period.
 
-3.4.4 Any PI who wishes their data to be made publicly accessible before the end of the 3 year embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk.
+3.4.4 Any PI who wishes their data to be made publicly accessible before the end of the embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk.
 
 3.5 Concerning access to facility generated reduced data and associated metadata
 
-3.5.1 Facility generated reduced data and associated metadata will be accessible from the DAaaS platform.
+3.5.1 Facility generated reduced data and associated metadata will be accessible from the facility-provided computing infrastructure.
 
 3.6 Concerning access to raw data, facility generated reduced data and associated metadata
 
-3.6.1 Access to the DAaaS platform will be restricted to those who register with STFC/ISIS as users.
+3.6.1 Access to the facility-provided computing infrastructure is restricted to those who register with STFC/ISIS as users.
 
 3.6.2 Access to embargoed data through the on-line catalogue will be restricted to experimental team members who register with STFC/ISIS as users. Data that is not under embargo will be openly accessible.
 
-3.6.3 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and the DAaaS platform, and other users may inadvertently be given access rights to the data.
+3.6.3 It is the responsibility of the PI to ensure that the experiment number (RB number) is correctly entered into the metadata for each raw data set, in order to correctly associate each data set with the PI.  If this is not done, the experimental team may not be able to access the data via the on-line catalogue and any facility-provided computing infrastructure, and other users may inadvertently be given access rights to the data.
 
-3.6.4 Appropriate STFC staff (e.g. instrument scientists, computing group members) may be given access to any ISIS data or metadata for facility-related purposes. ISIS undertakes to preserve the confidentiality of such data for the 3 year embargo period.
+3.6.4 Appropriate STFC staff (e.g. instrument scientists, computing group members) may be given access to any ISIS data or metadata for facility-related purposes. ISIS undertakes to preserve the confidentiality of such data for the embargo period.
 
 3.6.5 The on-line catalogue will enable the linking of experimental data to experimental proposals.  Access to proposals will only ever be provided to the experimental team and appropriate STFC staff, unless otherwise authorized by the PI (with the exception of those parts of the online proposal which are flagged as publicly accessible within the proposal system).
 
@@ -103,7 +103,7 @@ ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-
 
 4.2.1 It will not be the responsibility of ISIS to ensure that software to read / manipulate result data is available.
 
-4.2.2 Result data created by users of the DAaaS platform will be stored on medium-term storage, subject to volume restrictions.
+4.2.2 Result data created by users of facility-provided computing infrastructure will be stored on medium-term storage, subject to volume restrictions.
 
 4.2.3 For STFC staff, the [eData service](https://edata.stfc.ac.uk/) is provided to upload result data and associated metadata for long-term storage, subject to volume restrictions.  ISIS currently does not provide any such facility for non-STFC staff.
 
