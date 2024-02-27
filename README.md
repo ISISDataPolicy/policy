@@ -35,3 +35,7 @@ To create a new version of the policy:
 8. Finally, update the policy on the public ISIS website.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3827816.svg)](https://doi.org/10.5281/zenodo.3827816)
+
+## Reviews
+
+The policy is reviewed annually. Minutes and notes from the meetings can be found in the [reviews repository](https://github.com/ISISDataPolicy/reviews) (restricted access).
