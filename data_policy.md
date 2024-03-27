@@ -75,7 +75,7 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 3.4.4 Personal and sensitive data is handled in compliance with all ethical requirements.
 
-3.4.5 During the proposals process, some elements of the metadata associated with an experiment (such as the title) are indicated as being public and may be made publicly accessible, for example when minting a DOI. All other elements of the associated metadata are handled in the same way as the raw experimental data regarding the embargo period.
+3.4.5 Some elements of the metadata associated with an experiment, such as the title, may be made publicly accessible at any time. This applies to all proposals regardless or whether they are allocated beamtime. Elements that can be made public are indicated to applicants during the proposals process and within the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx). All other elements of the associated metadata are not made public at any time.
 
 3.4.6 Any PI who wishes their data to be made publicly accessible before the end of the embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk. We aim to respond to all requests within 72 hours.
 
