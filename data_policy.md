@@ -71,9 +71,13 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 3.4.2 Access to raw data obtained from an experiment is restricted to the experimental team for an embargo period of three years after the end of the experiment. Thereafter, it will become available to the wider community under the [CC-BY license](https://creativecommons.org/licenses/by/4.0/) that obliges users to acknowledge ISIS and cite [Digital Object Identifiers (DOI)](https://www.isis.stfc.ac.uk/Pages/Digital-Object-Identifiers-%28DOIs%29-for-ISIS-Data.aspx) that are linked to ISIS data. Any PI that wishes their data to remain ‘restricted access’ for a longer period will be required to make a special case to the Director of ISIS.
 
-3.4.3 During the proposals process, some elements of the metadata associated with an experiment (such as the title) are indicated as being public; these will be made publicly accessible after the proposal has been accepted. All other elements of the associated metadata are handled in the same way as the raw experimental data in regards to the embargo period.
+3.4.3 ISIS is required to comply with national legislation regarding personal and sensitive data. In such cases, even if the experiment is a result of grant funding, access to this data will remain restricted.
 
-3.4.4 Any PI who wishes their data to be made publicly accessible before the end of the embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk.
+3.4.4 Personal and sensitive data is handled in compliance with all ethical requirements.
+
+3.4.5 Some elements of the metadata associated with an experiment, such as the title, may be made publicly accessible at any time. This applies to all proposals regardless of whether they are allocated beamtime. Elements that can be made public are indicated to applicants during the proposals process and within the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx). All other elements of the associated metadata are not made public at any time.
+
+3.4.6 Any PI who wishes their data to be made publicly accessible before the end of the embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk. We aim to respond to all requests within 72 hours.
 
 3.5 Concerning access to facility generated reduced data and associated metadata
 
@@ -127,4 +131,4 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 ### Policy review
 
-The ISIS data policy is reviewed on an annual basis by a group of ISIS staff to keep it as relevant and accurate as possible. If you have any questions, feedback, or suggestions, please either email isisdata@stfc.ac.uk or comment on/open an issue at https://github.com/ISISDataPolicy/policy/issues
+The ISIS data policy is reviewed on an annual basis by a group of ISIS staff to keep it as relevant and accurate as possible. If you have any questions, feedback, or suggestions, please either email isisdata@stfc.ac.uk or comment on/open an issue at https://github.com/ISISDataPolicy/policy/issues.
