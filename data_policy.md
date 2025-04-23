@@ -37,7 +37,7 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 2.10 The term ‘medium-term’ means a minimum of 6 months.
 
-2.11 The term ‘curation’ denotes the long-term storage, backup and protection of data in a manner that respects and guarantees the prescribed access-rights.
+2.11 The term ‘curation’ denotes the storage, backup and protection of data in a manner that respects and guarantees the prescribed access-rights.
 
 2.12 The term ‘embargo period’ denotes the period of time in which access to data is restricted to the experimental team only. ‘Embargoed data’ is data still within an embargo period.
 
