@@ -79,6 +79,8 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 3.4.6 Any PI who wishes their data to be made publicly accessible before the end of the embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk. We aim to respond to all requests within 72 hours.
 
+3.4.7 Raw data, along with associated metadata, that has been made publicly accessible may be utilized for machine learning purposes, provided that such use abides by the data license and complies with applicable laws and regulations.
+
 3.5 Concerning access to facility generated reduced data and associated metadata
 
 3.5.1 Facility generated reduced data and associated metadata will be accessible from the facility-provided computing infrastructure.
