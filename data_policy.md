@@ -2,7 +2,7 @@
 
 This policy describes how ISIS handles curation, access, ownership, usage, and storage of data collected at the facility, along with the responsibilities users of ISIS have pertaining to these topics.
 
-ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-principles/) in order to support research, and the advancement of knowledge and technology. We release data in common, accessible formats under a permissive Creative Commons license, along with detailed metadata in a variety of human and machine readable formats.
+ISIS is committed to the principles of [FAIR data](https://www.go-fair.org/fair-principles/) in order to support research, and the advancement of knowledge and technology. We release data in common, accessible formats under a permissive Creative Commons license, along with detailed metadata in a variety of human and machine-readable formats.
 
 ## ISIS data management policy
 
@@ -37,7 +37,7 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 2.10 The term ‘medium-term’ means a minimum of 6 months.
 
-2.11 The term ‘curation’ denotes the long-term storage, backup and protection of data in a manner that respects and guarantees the prescribed access-rights.
+2.11 The term ‘curation’ denotes the storage, backup and protection of data in a manner that respects and guarantees the prescribed access-rights.
 
 2.12 The term ‘embargo period’ denotes the period of time in which access to data is restricted to the experimental team only. ‘Embargoed data’ is data still within an embargo period.
 
@@ -47,7 +47,7 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 
 3.1.1 All raw data and associated metadata obtained as a result of free (non-proprietary) access to ISIS will be treated as described in the rest of this section, with ISIS acting as the custodian.
 
-3.1.2 All raw data and associated metadata obtained as a result of proprietary access to ISIS will be owned exclusively by the proprietary user. This data will be treated as described in the rest of this section, but will only ever be accessible to members of the experimental team, unless requested otherwise according to 3.4.4.
+3.1.2 All raw data and associated metadata obtained as a result of proprietary access to ISIS will be owned exclusively by the proprietary user. This data will be treated as described in the rest of this section, but will only ever be accessible to members of the experimental team, unless requested otherwise according to 3.4.6.
 
 3.1.3 The principal investigator on a proprietary experiment can request any raw data or associated metadata obtained as part of the experiment be deleted from ISIS storage at any time.
 
@@ -78,6 +78,8 @@ and the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx)), 
 3.4.5 Some elements of the metadata associated with an experiment, such as the title, may be made publicly accessible at any time. This applies to all proposals regardless of whether they are allocated beamtime. Elements that can be made public are indicated to applicants during the proposals process and within the [ISIS Privacy Policy](https://www.isis.stfc.ac.uk/Pages/Privacy.aspx). All other elements of the associated metadata are not made public at any time.
 
 3.4.6 Any PI who wishes their data to be made publicly accessible before the end of the embargo period can ask ISIS to enable this by emailing isisdata@stfc.ac.uk. We aim to respond to all requests within 72 hours.
+
+3.4.7 Raw data, along with associated metadata, that has been made publicly accessible may be utilized for machine learning purposes, provided that such use abides by the data license and complies with applicable laws and regulations.
 
 3.5 Concerning access to facility generated reduced data and associated metadata
 
