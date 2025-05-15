@@ -36,7 +36,6 @@ To create a new version of the policy:
    - A HTML version of the policy is archived in the latest [build-html workflow run](https://github.com/ISISDataPolicy/policy/actions/workflows/build-html.yml).
      This can be used to replace the content when editing the Sharepoint page in source mode.  
 
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3827816.svg)](https://doi.org/10.5281/zenodo.3827816)
 
 ## Reviews
