@@ -1,0 +1,27 @@
+name: Build HTML
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  build-html:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - name: Install pandoc
+        run: sudo apt-get install --yes pandoc
+
+      - name: Build HTML
+        run: |
+          pandoc --from markdown --to html --output data_policy.html data_policy.md
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: data-policy-html
+          path: data_policy.html
