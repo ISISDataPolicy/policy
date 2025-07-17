@@ -25,14 +25,14 @@ To create a new version of the policy:
 2. Check, and update if necessary, the [.zenodo metadata](./.zenodo.json).
 3. Open a pull request to merge to the default branch.
 4. Send an email to the review group asking for any further comments and provide a link
-   to the pull request plus a word copy of the document as it would look for those without
-   GitHub access. Ask for feedback within 1 month.
-5. Once all feedback has been processed and the final changes to the document have been made
+   to the pull request plus a (manually created) Word copy of the markdown (.md) formatted version of the policy document
+   to show people without GitHub access how it would look. Ask for feedback within 1 month.
+6. Once all feedback has been processed and the final changes to the document have been made
    the pull request can be merged.
-6. Create a new GitHub release, including a bullet list of the major changes in the description.
-7. Once published check [Zenodo](https://zenodo.org/account/settings/github/repository/ISISDataPolicy/policy)
+7. Create a new GitHub release, including a bullet list of the major changes in the description.
+8. Once published check [Zenodo](https://zenodo.org/account/settings/github/repository/ISISDataPolicy/policy)
    has created a fresh DOI.
-8. Finally, update the policy on the public ISIS website.
+9. Finally, update the policy on the public ISIS website.
    - A HTML version of the policy is archived in the latest [build-html workflow run](https://github.com/ISISDataPolicy/policy/actions/workflows/build-html.yml).
      This can be used to replace the content when editing the Sharepoint page in source mode.  
 
