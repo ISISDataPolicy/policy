@@ -25,8 +25,8 @@ To create a new version of the policy:
 2. Check, and update if necessary, the [.zenodo metadata](./.zenodo.json).
 3. Open a pull request to merge to the default branch.
 4. Send an email to the review group asking for any further comments and provide a link
-   to the pull request plus a word copy of the document as it would look for those without
-   GitHub access. Ask for feedback within 1 month.
+   to the pull request plus a (manually created) Word copy of the markdown (.md) formatted version of the policy document
+   to show people without GitHub access how it would look. Ask for feedback within 1 month.
 5. Once all feedback has been processed and the final changes to the document have been made
    the pull request can be merged.
 6. Create a new GitHub release, including a bullet list of the major changes in the description.
