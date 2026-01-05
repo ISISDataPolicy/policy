@@ -21,7 +21,7 @@ jobs:
         run: |
           pandoc --from markdown --to html --output data_policy.html data_policy.md
 
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v6
         with:
           name: data-policy-html
           path: data_policy.html
