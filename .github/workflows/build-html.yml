@@ -15,7 +15,9 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Install pandoc
-        run: sudo apt-get install --yes pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes pandoc
 
       - name: Build HTML
         run: |
